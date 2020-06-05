@@ -4,6 +4,7 @@
 # Installasing
 ```
 • git clone https://github.com/Azura-X/CR
+• pip2 install requests mechanize
 • cd CR
 • python2 crack.py
 ```
